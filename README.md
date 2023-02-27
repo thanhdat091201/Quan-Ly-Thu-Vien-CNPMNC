@@ -35,7 +35,7 @@ KẾT LUẬN
 
 5. KẾT LUẬN
 
-- Biết sử dụng kiến thức " Hệ Thống Phân Tán " vào thiết kế web.
+- Biết sử dụng kiến thức hệ thống phân tán vào thiết kế web.
 - Thành thạo kĩ năng làm việc nhóm cũng như project nhóm.
 - Biết sử dụng một số Framwork cũng như các tính năng quản lý CSDL của MySQL.
 - Kiến thức sử dụng TestCase.
