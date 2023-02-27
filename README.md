@@ -17,9 +17,9 @@ KẾT LUẬN
 
 2.MỤC TIÊU
 
-- Trang Web thực hiện đầy đủ chức năng yêu cầu của Project môn học " Hệ Thống Phân Tán ".
+- Trang Web thực hiện đầy đủ chức năng yêu cầu của Project môn học " Công Nghệ Phần Mềm Nâng Cao ".
 - Áp dụng WebService Hệ Thống Phân Tán.
-- Sử dụng Flyway để quản lý CSDL web.
+- Sử dụng MySQL để quản lý CSDL web.
 - Sử dụng Testcase để test các chức năng của trang web.
 - Nâng cao các kỹ năng làm việc nhóm.
 3. KẾ HOẠCH
